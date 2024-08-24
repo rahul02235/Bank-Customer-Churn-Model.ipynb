@@ -1,1 +1,1 @@
-# Hands-On-Project-Bank-Customer-Churn-Model.ipynb
+# Bank-Customer-Churn-Model.ipynb
